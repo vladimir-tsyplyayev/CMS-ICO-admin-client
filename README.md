@@ -1,7 +1,7 @@
 # CMS for ICO
 
 ### User side
-* Landing Page;
+* Landing Page (HTML, CSS, jQuery, recaptcha/api.js, countdown.js, css/font-awesome.css, Google Analytics, Cookie Policy pop-up);
 * Authentification;
 * Registration;
 * User Panel;
