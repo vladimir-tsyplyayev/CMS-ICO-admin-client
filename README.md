@@ -1,7 +1,7 @@
 # CMS for ICO
 
 ### User side
-* Landing Page
+* Landing Page (Front-end)
   - HTML;
   - CSS;
   - jQuery;
