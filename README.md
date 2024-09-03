@@ -1,4 +1,4 @@
-# CMS for ICO user admin
+# CMS for ICO
 
 ### User side
 * Landing Page;
