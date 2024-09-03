@@ -9,10 +9,11 @@
   - countdown.js
   - css/font-awesome.css
   - Google Analytics;
-  - Cookie Policy pop-up.
+  - Cookie Policy pop-up;
+  - User Panel pop-up.
 * Authentification;
 * Registration;
-* User Panel (Pop-up window);
+* User Panel;
   - Tokens (checking tokens balance in Ethereum mainnet for user address);
   - Account (user profile data, uploading personal id);
   - Referals (Invite code);
