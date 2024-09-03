@@ -14,8 +14,8 @@
 * Authentification;
 * Registration;
 * User Panel;
-  - Tokens (checking tokens balance in Ethereum mainnet for user address);
-  - Account (user profile data, uploading personal id);
+  - Tokens (get tokens balance of user address from Ethereum node);
+  - Account (edit user profile data, uploading personal ID for KYC);
   - Referals (Invite code);
   - Privacy and safety (Checkbox agreements);
   - Password (Changing password);
