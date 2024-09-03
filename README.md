@@ -5,9 +5,9 @@
   - HTML;
   - CSS;
   - jQuery;
-  - recaptcha/api.js
-  - countdown.js
-  - css/font-awesome.css
+  - Google Recaptcha api.js
+  - Timer countdown.js
+  - Font-Awesome.css
   - Google Analytics;
   - Cookie Policy pop-up;
   - User Panel pop-up.
