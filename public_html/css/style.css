@@ -80,7 +80,7 @@ background: linear-gradient(to bottom,  #228fdc 0%,#238fdc 36%,#7abbea 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#228fdc', endColorstr='#7abbea',GradientType=0 );}
 .cryptocurrency{width: 1260px; height: 200px; background-image:url(../images/cryptocurrency.png);background-position:top right;background-repeat:no-repeat;background-size: 50%;z-index: 3; position: absolute; top:20px; right: 0;background-position-y: 14px;}
 .intro canvas{width: 100%; height: 689px; position: absolute; top:0px;}
-.unic_rocket{width:100%; height: 689px; z-index: 5; position: absolute; top:0; right: 0}
+.rocket{width:100%; height: 689px; z-index: 5; position: absolute; top:0; right: 0}
 .rocket{width:750px; height: 460px; background-image:url(../images/rocket.png);background-position:top right;background-repeat:no-repeat;background-size: 50%;z-index: 5; position: absolute; top:207px; right: 72px;}
 .fire{width:380px; height: 310px; background-image:url(../images/fire.png);background-position:top right;background-repeat:no-repeat;background-size: 50%;z-index: 3; position: absolute; top:516px; right: 31px;}
 .smoke{width:740px; height: 320px; background-image:url(../images/smoke.png);background-position:top right;background-repeat:no-repeat;background-size: 50%;z-index: 2; position: absolute; bottom:0px; right: 0px; opacity: 0.45}
@@ -197,11 +197,9 @@ display: inline-block;
 padding-bottom: 40px;}
 .advantages{clear: both;overflow: hidden;height: none; min-height: none;}
 .blue h2{color: #a9e7ff;font-size: 18px;margin-bottom: 20px;}
-.network{position: absolute; width: 90%; height: 500px; left: 5%; background-image:url(../images/network.png);background-position:top center;background-repeat:no-repeat;background-size: 73%;top:0;}
 .grey{background: #d9f3fc;text-align: center;padding: 40px 0}
 .grey img{height: 75px}
 .section_container li{line-height: 23px;margin-left: 17px;}
-.token{background-image:url(../images/unic_token.png);background-position:0 center;background-repeat:no-repeat;background-size: 15%;padding-left: 110px;}
 .token h2{margin-left: -100px;}
 .noheight{height: auto;}
 .token table, .token td, .token tr{border: #cce6ff 1px solid;}
@@ -719,7 +717,6 @@ border: none;
 	/*.section_container {width: 95%;}*/
 	.blue .aligncenter .half{width: 50%}
 	.blue .aligncenter .half .title_block{width: 80%}
-	.network {left: 0;width: 100%}
 	#signin .input, #register .input{width: 87%;}
 	.g-recaptcha {margin: 9px 10%;}
 	#signin, #register{width: 50%;left: 25%;}
@@ -735,7 +732,7 @@ border: none;
 	.socials .fa-2x{font-size: 3em !important;}
 	.socials a{width: 20%;height: 74px;}
 	.intro{height: 719px;}
-	.unic_rocket{display: block;}
+	.rocket{display: block;}
 	.rocket{width: 60%; top: 30%;right: 3%}
 	.fire{width: 30%;top: 373px;right: 0;}
 	.timer{left: 8%;width: 85%;text-align: center; top: 588px;}
@@ -782,7 +779,7 @@ border: none;
 	.whitelist form {width: 245px;margin-top: 24px;}
 	.email{width: 180px;}
 	.subscribe_btn{margin: 0 auto;margin-top: 18px;width: 100%;}
-	.unic_rocket{display: block;}
+	.rocket{display: block;}
 	.rocket{width: 60%; top: 157px;right: 3%}
 	.benefit1, .benefit2, .benefit3, .benefit6 {position: relative;float: left;top: auto;left: auto;text-align: left;width: 44%;margin: 3%;margin-top: 7px;padding-top: 44px;}
 	.benefit1 b, .benefit2 b, .benefit3 b, .benefit6 b {margin-bottom: 4px;}
@@ -877,7 +874,7 @@ background-position-y: 7px;}
 	.slogan em {font-size: 18px;}
 	.whitelist{left: 17%}
 	.whitelist form{margin-left: -17px}
-	.unic_rocket{display: none;}
+	.rocket{display: none;}
 	.section{height: auto;}
 	.benefits{min-height: 490px;height: auto;}
 	.benefit1, .benefit2, .benefit3, .benefit6 {width: 90%;padding-top: 24px;height: auto;text-align: left;}
